@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: a1065b38b7d4da84fa1a43dc1bb12279
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brown_Mushroom
+    100002: Coal_Ore
+    100004: Cobblestone
+    100006: Dandelion
+    100008: Dirt
+    100010: Grass
+    100012: Grass_Block
+    100014: Gravel
+    100016: //RootNode
+    100018: Iron_Ore
+    100020: Large_Flowers
+    100022: Leaves
+    100024: Oak_Log
+    100026: Poppy
+    100028: Red_Mushroom
+    100030: Snow
+    100032: Stationary_Water
+    100034: Stone
+    100036: Sugar_Cane
+    100038: Water
+    400000: Brown_Mushroom
+    400002: Coal_Ore
+    400004: Cobblestone
+    400006: Dandelion
+    400008: Dirt
+    400010: Grass
+    400012: Grass_Block
+    400014: Gravel
+    400016: //RootNode
+    400018: Iron_Ore
+    400020: Large_Flowers
+    400022: Leaves
+    400024: Oak_Log
+    400026: Poppy
+    400028: Red_Mushroom
+    400030: Snow
+    400032: Stationary_Water
+    400034: Stone
+    400036: Sugar_Cane
+    400038: Water
+    2100000: Brown_Mushroom
+    2100002: Coal_Ore
+    2100004: Cobblestone
+    2100006: Dandelion
+    2100008: Dirt
+    2100010: Grass
+    2100012: Grass_Block
+    2100014: Gravel
+    2100016: Iron_Ore
+    2100018: Large_Flowers
+    2100020: Leaves
+    2100022: Oak_Log
+    2100024: Poppy
+    2100026: Red_Mushroom
+    2100028: Snow
+    2100030: Stationary_Water
+    2100032: Stone
+    2100034: Sugar_Cane
+    2100036: Water
+    2300000: Brown_Mushroom
+    2300002: Coal_Ore
+    2300004: Cobblestone
+    2300006: Dandelion
+    2300008: Dirt
+    2300010: Grass
+    2300012: Grass_Block
+    2300014: Gravel
+    2300016: Iron_Ore
+    2300018: Large_Flowers
+    2300020: Leaves
+    2300022: Oak_Log
+    2300024: Poppy
+    2300026: Red_Mushroom
+    2300028: Snow
+    2300030: Stationary_Water
+    2300032: Stone
+    2300034: Sugar_Cane
+    2300036: Water
+    3300000: Brown_Mushroom
+    3300002: Coal_Ore
+    3300004: Cobblestone
+    3300006: Dandelion
+    3300008: Dirt
+    3300010: Grass
+    3300012: Grass_Block
+    3300014: Gravel
+    3300016: Iron_Ore
+    3300018: Large_Flowers
+    3300020: Leaves
+    3300022: Oak_Log
+    3300024: Poppy
+    3300026: Red_Mushroom
+    3300028: Snow
+    3300030: Stationary_Water
+    3300032: Stone
+    3300034: Sugar_Cane
+    3300036: Water
+    4300000: Brown_Mushroom
+    4300002: Coal_Ore
+    4300004: Cobblestone
+    4300006: Dandelion
+    4300008: Dirt
+    4300010: Grass
+    4300012: Grass_Block
+    4300014: Gravel
+    4300016: Iron_Ore
+    4300018: Large_Flowers
+    4300020: Leaves
+    4300022: Oak_Log
+    4300024: Poppy
+    4300026: Red_Mushroom
+    4300028: Snow
+    4300030: Stationary_Water
+    4300032: Stone
+    4300034: Sugar_Cane
+    4300036: Water
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
