@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: a6cbcd72beedb4446a325085cb3d6138
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
@@ -12,7 +12,12 @@ ModelImporter:
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__pony2_tex_tga
+    second: {fileID: 2100000, guid: a3b3c239705d10e4e88401e3a277eae3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,8 +68,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

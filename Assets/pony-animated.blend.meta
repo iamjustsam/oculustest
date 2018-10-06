@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 539b1d422769d8c468eea962aefa1dde
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Armature
     100002: Bone
@@ -82,7 +82,12 @@ ModelImporter:
     7400012: Trot2
     9500000: //RootNode
     13700000: Pony-animated
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__pony2_tex_tga
+    second: {fileID: 2100000, guid: a3b3c239705d10e4e88401e3a277eae3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -133,8 +138,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
