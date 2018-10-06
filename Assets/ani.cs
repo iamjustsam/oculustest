@@ -3,14 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ani : MonoBehaviour {
-    public Animation anim;
+    public Animator anim;
 	// Use this for initialization
 	void Start () {
-        anim = GetComponent<Animation>();
-        foreach(AnimationState state in anim)
-        {
-            state.speed = 0.5F;
-        }
+        anim = GetComponent<Animator>();
 	}
 	
 	// Update is called once per frame
